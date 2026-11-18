@@ -16,3 +16,6 @@ print(type(n))
 b=str(input("enter a number:"))
 print(b)
 print(type(b))
+#hello students 
+"""hello mohith vamsi 
+manne """
